@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mirada de fuego intenso, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Mirada de fuego intenso, Vol. 2** (mirada-de-fuego-intenso-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T11:01:55.085798 | `v1` | `4f80d4991ea87380e4aa65a03337dbf1e96af40c96c1c74cfe25c2b1431ee82f` | `d658c58a1cd0d896bcfdc72cecc268884ebba671ce7639f20f1c521615a94b08` | `2026-06-21_mirada-de-fuego-intenso-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

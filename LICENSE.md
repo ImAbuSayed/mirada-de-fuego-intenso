@@ -1,6 +1,6 @@
 # License
 
-**Mirada de fuego intenso**
+**Mirada de fuego intenso, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

@@ -1,4 +1,4 @@
-# Mirada de fuego intenso
+# Mirada de fuego intenso, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Mirada de fuego intenso |
+| **Title** | Mirada de fuego intenso, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-de-fuego-intenso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Mirada de fuego intenso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-fuego-intenso/) |
+| **Get License** | [Request Licensing for Mirada de fuego intenso, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-fuego-intenso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tu mirada de fuego me quita la razón
+> Un juego peligroso que enciende mi corazón
+> Sube la adrenalina cuando te acercas a mí
+> Yo te quiero esta noche, te quiero solo pa' mí
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `4f80d4991ea87380e4aa65a03337dbf1e96af40c96c1c74cfe25c2b1431ee82f` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
